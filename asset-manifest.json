@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Insungflix/static/css/main.bf314f0e.css",
-    "main.js": "/Insungflix/static/js/main.f37130ff.js",
+    "main.js": "/Insungflix/static/js/main.3781ab0e.js",
     "index.html": "/Insungflix/index.html",
     "main.bf314f0e.css.map": "/Insungflix/static/css/main.bf314f0e.css.map",
-    "main.f37130ff.js.map": "/Insungflix/static/js/main.f37130ff.js.map"
+    "main.3781ab0e.js.map": "/Insungflix/static/js/main.3781ab0e.js.map"
   },
   "entrypoints": [
     "static/css/main.bf314f0e.css",
-    "static/js/main.f37130ff.js"
+    "static/js/main.3781ab0e.js"
   ]
 }
