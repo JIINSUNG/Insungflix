@@ -1,4 +1,4 @@
-// const API_KEY = "896c8566fc255f7c52f6ea6bd2901188";
+const API_KEY = "062f94a01b7ee0e7fc7c36d252ce0d91";
 
 const requests = {
     fetchDQsPick: `/all`,

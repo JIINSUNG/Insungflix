@@ -9,7 +9,7 @@ import Row from "./Row";
 const App = () => {
   const [personalizeUrl, setPersonalizeUrl] = useState(baseUrl + "/all");
   const [myRating, setMyRating] = useState([]);
-
+  
   const addRating = (rating) => {
     myRating.push(rating);
     setMyRating(myRating);
