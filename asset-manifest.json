@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jiinsung.github.io/Insungflix/static/css/main.bf314f0e.css",
-    "main.js": "/jiinsung.github.io/Insungflix/static/js/main.e4629bbd.js",
-    "index.html": "/jiinsung.github.io/Insungflix/index.html",
-    "main.bf314f0e.css.map": "/jiinsung.github.io/Insungflix/static/css/main.bf314f0e.css.map",
-    "main.e4629bbd.js.map": "/jiinsung.github.io/Insungflix/static/js/main.e4629bbd.js.map"
+    "main.css": "/Insungflix/static/css/main.bf314f0e.css",
+    "main.js": "/Insungflix/static/js/main.e4629bbd.js",
+    "index.html": "/Insungflix/index.html",
+    "main.bf314f0e.css.map": "/Insungflix/static/css/main.bf314f0e.css.map",
+    "main.e4629bbd.js.map": "/Insungflix/static/js/main.e4629bbd.js.map"
   },
   "entrypoints": [
     "static/css/main.bf314f0e.css",
