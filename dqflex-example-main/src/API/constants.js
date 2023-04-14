@@ -1,1 +1,1 @@
-export const baseUrl = "http://ssong2.click:8080";
+export const baseUrl = "ssong2.click";
